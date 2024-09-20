@@ -1,11 +1,11 @@
 author,,year,,title,,venue,,position,,year,,paper_url,,excerpt
 1. Bi Deshun , **Li Shengguo** , Dong Dezun , Zhang Peng , Fang Jianbin.,, (2024).,, Optimizing SpMV on Heterogeneous Multi-Core DSPs through Improved Locality and Vectorization. ,,1145-1155. ,,10.1145/3673038.3673061. 
 
-1. Yuan Fan , Yang Xiaojian , **Li Shengguo** , Dong Dezun , Huang Chun , Wang Zheng. ,,(2024).,, Optimizing Multi-Grid Preconditioned Conjugate Gradient Method on Multi-Cores. ,,IEEE Transactions on Parallel and Distributed Systems. PP. 1-12. 10.1109/TPDS.2024.3372473. 
+2. Yuan Fan , Yang Xiaojian , **Li Shengguo** , Dong Dezun , Huang Chun , Wang Zheng. ,,(2024).,, Optimizing Multi-Grid Preconditioned Conjugate Gradient Method on Multi-Cores. ,,IEEE Transactions on Parallel and Distributed Systems. PP. 1-12. 10.1109/TPDS.2024.3372473. 
 
-1. Bi Deshun , **Li Shengguo** , Zhang Yichen , Yang Xiaojian , Dong Dezun.,, (2024). ,,Efficiently Running SpMV on Multi-core DSPs for Banded Matrix.,, 10.1007/978-981-97-0808-6_12. 
+3. Bi Deshun , **Li Shengguo** , Zhang Yichen , Yang Xiaojian , Dong Dezun.,, (2024). ,,Efficiently Running SpMV on Multi-core DSPs for Banded Matrix.,, 10.1007/978-981-97-0808-6_12. 
 
-1. Zhang Zhicheng , Liu Jie , **Li Shengguo** , Yuan Fan , Zhu Xiaoxiong , Wang Qinglin , Zhang Jieyuan. (2023). Optimizing 3D Mantle Convection Simulations on Multi-cores. 154-161. 10.1109/HPCC-DSS-SmartCity-DependSys60770.2023.00030. 
+4. Zhang Zhicheng , Liu Jie , **Li Shengguo** , Yuan Fan , Zhu Xiaoxiong , Wang Qinglin , Zhang Jieyuan. (2023). Optimizing 3D Mantle Convection Simulations on Multi-cores. 154-161. 10.1109/HPCC-DSS-SmartCity-DependSys60770.2023.00030. 
 
 1. Bi Deshun , Tian Xiaowen , **Li Shengguo** , Dong Dezun. (2023). Efficiently Running SpMV on Multi-Core DSPs for Block Sparse Matrix. 1912-1919. 10.1109/ICPADS60453.2023.00262. 
 
