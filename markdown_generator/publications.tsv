@@ -1,0 +1,3 @@
+pub_date	title	venue	excerpt	citation	url_slug	paper_url
+2014-01-01	An improved dqds algorithm.	SIAM J. Sci. Comput.	Introduction.......	Li Shengguo, Gu Ming, and B.N. Parlett, An improved dqds algorithm. SIAM J. Sci. Comput., 36 (2014) C290-C308.	paper-file-name-1	http://my.github.io/files/paper1.pdf
+2014-01-01	An accelerated divide-and-conquer algorithm for the bidiagonal SVD problem	SIAM J. Matrix Anal. Appl.	Introduction.....	Li Shengguo, Gu Ming, Cheng Lizhi. Fast structured LU factorization for nonsymmetric matrices,  Numer. Math., 127 (2014) 35-55.	paper-title-number-2	http://my.github.io/files/paper2.pdf

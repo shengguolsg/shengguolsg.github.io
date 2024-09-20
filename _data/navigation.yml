@@ -1,0 +1,15 @@
+# main links links
+main:
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Teams"
+    url: /Teams/    
+
+  - title: "Projects"
+    url: /Projects/
+    
+  # - title: "CV"
+  #   url: /cv/
+    
+
