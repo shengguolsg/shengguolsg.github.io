@@ -1,6 +1,7 @@
 ---
 title: " An improved dqds algorithm."
 collection: publications
+category: 2014
 permalink: /publication/2014- An improved dqds algorithm.
 excerpt: '       '
 date: 2014-01-01

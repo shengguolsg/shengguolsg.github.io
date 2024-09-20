@@ -1,6 +1,7 @@
 ---
 title: " Optimizing data query performance of Bi-cluster for large-scale scientifc data in supercomputers"
 collection: publications
+category: 2022
 permalink: /publication/2022- Optimizing data query performance of Bi-cluster for large-scale scientifc data in supercomputers
 excerpt: '       '
 date: 2022-01-01

@@ -116,6 +116,29 @@ author:
   youtube          :
   wikipedia        :
 
+publication_category:
+  2024:
+    title: '2024'
+  2023:
+    title: '2023'
+  2022:
+    title: '2022'
+  2021:
+    title: '2021'
+  2020:
+    title: '2020'
+  2019:
+    title: '2019'
+  2018:
+    title: '2018'
+  2017:
+    title: '2017'
+  2016:
+    title: '2016'
+  2015:
+    title: '2015'
+  2014:
+    title: '2014'
 
 # Reading Files
 include:

@@ -1,6 +1,8 @@
 ---
 title: " A parallel structured banded DC algorithm for symmetric eigenvalue problems"
 collection: publications
+category: 2022
+
 permalink: /publication/2022- A parallel structured banded DC algorithm for symmetric eigenvalue problems
 excerpt: '       '
 date: 2022-01-01

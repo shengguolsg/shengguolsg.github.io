@@ -1,6 +1,7 @@
 ---
 title: " A new updating method for the damped mass-spring systems"
 collection: publications
+category: 2018
 permalink: /publication/2018- A new updating method for the damped mass-spring systems
 excerpt: '       '
 date: 2018-01-01

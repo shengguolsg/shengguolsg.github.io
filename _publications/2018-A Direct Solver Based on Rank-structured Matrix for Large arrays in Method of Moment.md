@@ -1,6 +1,7 @@
 ---
 title: "A Direct Solver Based on Rank-structured Matrix for Large arrays in Method of Moment"
 collection: publications
+category: 2018
 permalink: /publication/2018-A Direct Solver Based on Rank-structured Matrix for Large arrays in Method of Moment
 excerpt: '       '
 date: 2018-01-01

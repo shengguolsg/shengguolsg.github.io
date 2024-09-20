@@ -1,6 +1,7 @@
 ---
 title: "Optimizing MPI Collectives on Shared Memory Multi-cores"
 collection: publications
+category: 2023
 permalink: /publication/2023-Optimizing MPI Collectives on Shared Memory Multi-cores
 excerpt: '       '
 date: 2023-01-01

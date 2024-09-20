@@ -1,6 +1,8 @@
 ---
 title: " Memory-aware optimization for sequence of sparse matrix-vector multiplications"
 collection: publications
+category: 2023
+
 permalink: /publication/2023- Memory-aware optimization for sequence of sparse matrix-vector multiplications
 excerpt: '       '
 date: 2023-01-01

@@ -1,6 +1,8 @@
 ---
 title: " Efficient Data Redistribution Algorithms From Irregular to Block Cyclic Data Distribution"
 collection: publications
+category: 2022
+
 permalink: /publication/2022- Efficient Data Redistribution Algorithms From Irregular to Block Cyclic Data Distribution
 excerpt: '       '
 date: 2022-01-01

@@ -1,6 +1,7 @@
 ---
 title: " A Parallel Structured Divide-and-Conquer Algorithm for Symmetric Tridiagonal Eigenvalue Problems"
 collection: publications
+category: 2021
 permalink: /publication/2021- A Parallel Structured Divide-and-Conquer Algorithm for Symmetric Tridiagonal Eigenvalue Problems
 excerpt: '       '
 date: 2021-01-01

@@ -1,6 +1,7 @@
 ---
 title: "Optimizing Multi-Grid Preconditioned Conjugate Gradient Method on Multi-Cores"
 collection: publications
+category: 2024
 permalink: /publication/2024-05-01-Optimizing-Multi-Grid-Preconditioned-Conjugate-Gradient-Method-on-Multi-Cores
 date: 2024-05-01
 venue: 'IEEE Transactions on Parallel and Distributed Systems PP(99):1-12 PP(99):1-12 '

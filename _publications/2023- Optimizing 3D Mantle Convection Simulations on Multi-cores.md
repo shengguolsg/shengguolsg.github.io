@@ -1,6 +1,8 @@
 ---
 title: " Optimizing 3D Mantle Convection Simulations on Multi-cores"
 collection: publications
+category: 2023
+
 permalink: /publication/2023- Optimizing 3D Mantle Convection Simulations on Multi-cores
 excerpt: '       '
 date: 2023-01-01

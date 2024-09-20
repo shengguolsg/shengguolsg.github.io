@@ -1,6 +1,7 @@
 ---
 title: " New fast divide-and-conquer algorithms for the symmetric tridiagonal eigenvalue problem"
 collection: publications
+category: 2016
 permalink: /publication/2016- New fast divide-and-conquer algorithms for the symmetric tridiagonal eigenvalue problem
 excerpt: '       '
 date: 2016-01-01

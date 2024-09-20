@@ -1,6 +1,7 @@
 ---
 title: " Optimizing Multi-grid computation and parallelization on multi-cores"
 collection: publications
+category: 2023
 permalink: /publication/2023- Optimizing Multi-grid computation and parallelization on multi-cores
 excerpt: '       '
 date: 2023-01-01

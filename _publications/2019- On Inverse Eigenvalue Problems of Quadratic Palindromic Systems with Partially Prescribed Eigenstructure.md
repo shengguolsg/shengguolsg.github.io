@@ -1,6 +1,7 @@
 ---
 title: " On Inverse Eigenvalue Problems of Quadratic Palindromic Systems with Partially Prescribed Eigenstructure"
 collection: publications
+category: 2019
 permalink: /publication/2019- On Inverse Eigenvalue Problems of Quadratic Palindromic Systems with Partially Prescribed Eigenstructure
 excerpt: '       '
 date: 2019-01-01

@@ -1,6 +1,7 @@
 ---
 title: " An accelerated divide-and-conquer algorithm for the bidiagonal SVD problem"
 collection: publications
+category: 2014
 permalink: /publication/2014- An accelerated divide-and-conquer algorithm for the bidiagonal SVD problem
 excerpt: '       '
 date: 2014-01-01

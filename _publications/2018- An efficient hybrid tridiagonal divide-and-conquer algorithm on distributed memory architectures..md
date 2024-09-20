@@ -1,6 +1,7 @@
 ---
 title: " An efficient hybrid tridiagonal divide-and-conquer algorithm on distributed memory architectures."
 collection: publications
+category: 2018
 permalink: /publication/2018- An efficient hybrid tridiagonal divide-and-conquer algorithm on distributed memory architectures.
 excerpt: '       '
 date: 2018-01-01

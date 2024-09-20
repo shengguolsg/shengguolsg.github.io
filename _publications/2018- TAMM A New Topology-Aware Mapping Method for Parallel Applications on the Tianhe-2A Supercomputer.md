@@ -1,6 +1,7 @@
 ---
 title: " TAMM A New Topology-Aware Mapping Method for Parallel Applications on the Tianhe-2A Supercomputer"
 collection: publications
+category: 2018
 permalink: /publication/2018- TAMM A New Topology-Aware Mapping Method for Parallel Applications on the Tianhe-2A Supercomputer
 excerpt: '       '
 date: 2018-01-01

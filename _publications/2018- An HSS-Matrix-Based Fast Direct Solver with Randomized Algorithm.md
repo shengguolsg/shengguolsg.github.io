@@ -1,6 +1,7 @@
 ---
 title: " An HSS-Matrix-Based Fast Direct Solver with Randomized Algorithm"
 collection: publications
+category: 2018
 permalink: /publication/2018- An HSS-Matrix-Based Fast Direct Solver with Randomized Algorithm
 excerpt: '       '
 date: 2018-01-01

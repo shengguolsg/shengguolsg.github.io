@@ -1,6 +1,7 @@
 ---
 title: " Fast structured LU factorization for nonsymmetric matrices"
 collection: publications
+category: 2014
 permalink: /publication/2014- Fast structured LU factorization for nonsymmetric matrices
 excerpt: '       '
 date: 2014-01-01
