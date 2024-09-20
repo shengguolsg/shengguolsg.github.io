@@ -6,7 +6,7 @@ permalink: /publication/2018- An HSS-Matrix-Based Fast Direct Solver with Random
 excerpt: '       '
 date: 2018-01-01
 venue: ' Applied Computational Electromagnetics Society Journal'
-paperurl: 'http://test'
+paperurl: ' '
 citation: ' Weikang Yu; Hu Yang; <b>Shengguo Li</b>; Yanlin Xu  An HSS-Matrix-Based Fast Direct Solver with Randomized Algorithm Applied Computational Electromagnetics Society Journal 2018,33:814-817. '
 ---
 

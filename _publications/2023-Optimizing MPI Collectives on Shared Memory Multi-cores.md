@@ -6,7 +6,7 @@ permalink: /publication/2023-Optimizing MPI Collectives on Shared Memory Multi-c
 excerpt: '       '
 date: 2023-01-01
 venue: ' SC 23'
-paperurl: 'http://test'
+paperurl: ' '
 citation: ' Peng Jintao, Fang Jianbin, Liu Jie, Xie Min, Dai Yi, Yang Bo, <b>Li Shengguo</b>, Wang Zheng Optimizing MPI Collectives on Shared Memory Multi-cores SC 23 '
 ---
 

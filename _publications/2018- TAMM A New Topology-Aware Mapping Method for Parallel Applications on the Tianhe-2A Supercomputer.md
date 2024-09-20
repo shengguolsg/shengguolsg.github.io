@@ -6,7 +6,7 @@ permalink: /publication/2018- TAMM A New Topology-Aware Mapping Method for Paral
 excerpt: '       '
 date: 2018-01-01
 venue: ' ICA3PP 2018.'
-paperurl: 'http://test'
+paperurl: ' '
 citation: ' Chen Xinhai, Liu J., <b>Li Shengguo</b>, Xie P., Chi L., Wang Q.  TAMM A New Topology-Aware Mapping Method for Parallel Applications on the Tianhe-2A Supercomputer ICA3PP 2018. '
 ---
 

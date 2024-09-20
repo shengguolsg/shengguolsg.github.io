@@ -6,7 +6,7 @@ permalink: /publication/2023- Optimizing Multi-grid computation and parallelizat
 excerpt: '       '
 date: 2023-01-01
 venue: ' ICS 2023. '
-paperurl: 'http://test'
+paperurl: ' '
 citation: ' Yang X, <b>Li Shengguo</b>, Yuan Fan, Dong Dezun, Huang Chun, Wang Zheng  Optimizing Multi-grid computation and parallelization on multi-cores ICS 2023.  '
 ---
 

@@ -6,7 +6,7 @@ permalink: /publication/2014- Fast structured LU factorization for nonsymmetric 
 excerpt: '       '
 date: 2014-01-01
 venue: '  Numer. Math.'
-paperurl: 'http://test'
+paperurl: ' '
 citation: '<b>Li Shengguo</b>, Gu Ming, Cheng Lizhi.  Fast structured LU factorization for nonsymmetric matrices  Numer. Math. 127 (2014) 35-55. '
 ---
 
